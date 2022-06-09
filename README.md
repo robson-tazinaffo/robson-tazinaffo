@@ -1,4 +1,4 @@
-### Olá, sou Mauro Robson Tazinaffo, desenvolvedor de softwares 👋
+### 👋 Olá, sou Mauro Robson Tazinaffo, desenvolvedor de softwares 
 
 - 🔭 Hoje trabalho com sistemas desktop e mobile com Delphi
 - 🌱 Estudando Nodejs, Flutter, Javascript e Python atualmente. 

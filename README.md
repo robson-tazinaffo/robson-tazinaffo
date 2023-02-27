@@ -27,7 +27,7 @@
   <img align="center" alt="Robson-Ubuntu" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align="center" alt="Delphi" height="30" width="30" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png"/> 
 <img align="center" alt="Firebird" height="30" width="30" src="https://firebirdsql.org/file/about/firebird-logo-48.png" /> 
-  <img align="center" alt="Firebird" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Firebird" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
           
           
                   

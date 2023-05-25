@@ -1,8 +1,5 @@
-### 👋 Olá, sou Mauro Robson Tazinaffo, desenvolvedor de softwares e amante de tecnologias de desenvolvimento 
+### 👋 Olá, sou Mauro Robson Tazinaffo, bacharel em Engenharia de Computação e amante de tecnologias de desenvolvimento.  
 
-- 🔭 Hoje trabalho com sistemas desktop e mobile com Delphi
-- 🌱 Estudando Nodejs, Flutter, Javascript e Python atualmente. 
-- 👍 Disponível para colaborar em projetos...
 
 <div align="center">
   <a href="https://github.com/robson-tazinaffo">

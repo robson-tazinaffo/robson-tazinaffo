@@ -1,4 +1,4 @@
-### 👋 Olá, sou Mauro Robson Tazinaffo, bacharel em Engenharia de Computação e amante de tecnologias de desenvolvimento.  
+### 👋 Olá, sou Mauro Robson Tazinaffo, bacharel em Engenharia de Computação, entusiasta de tecnologia e participante ativo de bootcamps e workshops 💻  
 
 
 <div align="center">
